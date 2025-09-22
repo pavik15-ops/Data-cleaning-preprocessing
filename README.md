@@ -5,7 +5,7 @@
 
 2. Tools Used:
    * Python(Pandas)
-   * Jupyter Notebook
+   * Colab Notebook
 
 3. Steps Performed Are:
    * Removed Duplicted values
