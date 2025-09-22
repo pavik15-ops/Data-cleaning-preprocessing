@@ -1,5 +1,6 @@
 # Customer Personality Data Cleaning:
-1.Objective:
+ 1.Objective:
+
  Clean and prepare the raw dataset by handling missing values, remove duplicate, rename column,change the data type 
 
 2. Tools Used:
