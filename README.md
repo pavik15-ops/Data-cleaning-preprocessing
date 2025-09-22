@@ -1,13 +1,13 @@
 # Customer Personality Data Cleaning:
 
-1.Objective:
+ 1.Objective:
  Clean and prepare the raw dataset by handling missing values, remove duplicate, rename column,change the data type 
 
-2. Tools Used:
+ 2. Tools Used:
    * Python(Pandas)
    * Jupyter Notebook
 
-3. Steps Performed Are:
+ 3. Steps Performed Are:
    * Removed Duplicted values
    * checked whether null values are present or not
    * And renamed all the column names to proper standard form
